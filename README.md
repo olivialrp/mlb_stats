@@ -1,8 +1,6 @@
 ## Installation
 Clone the repository
 
-mlb-game-stats.git
-
 ## Install required packages:
 pip install mlbgame
 pandas 
