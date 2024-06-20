@@ -3,8 +3,11 @@ Clone the repository
 
 ## Install required packages:
 pip install mlbgame
+
 pandas 
+
 seaborn 
+
 matplotlib
 
 ## Usage
