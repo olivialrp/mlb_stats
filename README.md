@@ -1,6 +1,7 @@
 ## Installation
-Clone the repository:
-git clone https://github.com/your-username/mlb-game-stats.git
+Clone the repository
+
+mlb-game-stats.git
 
 ## Install required packages:
 pip install mlbgame
