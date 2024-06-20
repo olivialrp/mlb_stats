@@ -3,7 +3,10 @@ Clone the repository:
 git clone https://github.com/your-username/mlb-game-stats.git
 
 ## Install required packages:
-pip install -r requirements.txt
+pip install mlbgame
+pandas 
+seaborn 
+matplotlib
 
 ## Usage
 Run the script:
